@@ -70,3 +70,4 @@ Fluid challenges in trauma patients should be avoided unless otherwise advised b
 - Apply dressing
 - **DO NOT pack ear canal**
 
+

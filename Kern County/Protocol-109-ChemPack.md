@@ -61,3 +61,4 @@ Administer additional DuoDote or Mark I kits for a total of 3, if symptoms progr
 
 Atropine auto-injectors (AtroPen) come in 0.5mg, 1 mg, and 2mg devices. Initial dose based off 0.05mg/kg, repeat dosage based off 0.1mg/kg. May repeat every 5 minutes until secretions begin to dry or maximum 6mg IM.
 
+

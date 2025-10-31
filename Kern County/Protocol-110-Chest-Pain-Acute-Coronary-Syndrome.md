@@ -79,3 +79,4 @@ If the Paramedic believes the patient is suffering an AMI and the 12-lead is not
 - Shock/Hypoperfusion Protocol (125)
 - Asystole/PEA Protocol (104)
 
+

@@ -151,3 +151,4 @@ The patient shall be transported to the closest and most appropriate authorized 
 
 If the patient is to be transported to an emergency department that did not order termination of resuscitation, Prehospital Care Personnel shall make immediate contact and inform the receiving hospital emergency department physician of the situation.
 
+
