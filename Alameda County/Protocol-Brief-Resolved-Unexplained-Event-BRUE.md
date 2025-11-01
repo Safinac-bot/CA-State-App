@@ -48,3 +48,7 @@ BRIEF RESOLVED UNEXPLAINED EVENT - BRUE
 
 2.8 Note: Contact the Base Physician for consultation if the parent/guardian is refusing medical care and/or transport, prior to completing a Refusal of Care form
 
+
+
+
+

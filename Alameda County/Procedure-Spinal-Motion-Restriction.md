@@ -46,3 +46,7 @@ SPINAL MOTION RESTRICTION (SMR)
 
 5.3 Combative patients: Avoid methods that provoke increased spinal movement and/or
 
+
+
+
+

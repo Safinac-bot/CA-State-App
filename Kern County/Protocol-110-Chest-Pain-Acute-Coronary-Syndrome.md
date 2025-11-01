@@ -80,3 +80,4 @@ If the Paramedic believes the patient is suffering an AMI and the 12-lead is not
 - Asystole/PEA Protocol (104)
 
 
+

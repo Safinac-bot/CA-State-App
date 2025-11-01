@@ -95,3 +95,7 @@ Notes:
  ☐ Burn patients may require higher doses
  ☐ Have Naloxone readily available
 
+
+
+
+

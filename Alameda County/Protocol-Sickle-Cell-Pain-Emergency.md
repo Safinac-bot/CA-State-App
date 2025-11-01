@@ -42,3 +42,7 @@ YES → Pain Management
 
 NO → Assess for other serious conditions such as ACS, CVA, pulmonary embolus and utilize appropriate protocol(s) for patient presentation
 
+
+
+
+

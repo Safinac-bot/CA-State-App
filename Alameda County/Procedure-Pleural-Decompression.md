@@ -29,3 +29,7 @@ PLEURAL DECOMPRESSION
 
 4.3 Hemorrhage secondary to damage to the intercostal artery or vein
 
+
+
+
+

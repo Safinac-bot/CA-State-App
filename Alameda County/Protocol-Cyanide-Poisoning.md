@@ -42,3 +42,7 @@ Sodium Thiosulfate IV over 10 minutes
 • Adult: 12.5 grams
 • Child: 0.4 gm/kg (max dose 12.5 grams)
 
+
+
+
+

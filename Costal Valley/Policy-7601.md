@@ -59,3 +59,5 @@ a. To establish routine procedures to assist EMS personnel with calls involving 
 
 a. Thoroughly document all findings obtained during history gathering, patient assessment, and scene examination.
 
+
+

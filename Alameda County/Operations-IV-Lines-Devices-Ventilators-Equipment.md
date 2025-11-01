@@ -42,3 +42,7 @@ IV LINES & DEVICES, VENTILATORS & OTHER PATIENT CARE EQUIPMENT
 
 6. Thoracostomy tubes: Only CCT - Paramedics may monitor thoracostomy tubes
 
+
+
+
+

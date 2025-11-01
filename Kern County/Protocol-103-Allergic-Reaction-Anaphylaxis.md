@@ -71,3 +71,4 @@ Push dose epinephrine or epinephrine drip is indicated for severe allergic react
 Diphenhydramine is indicated for use after epinephrine in patients with respiratory distress or hypoperfusion. Diphenhydramine is the primary therapy for idiosyncratic reactions to Haldol or phenothiazine medication group. Phenothiazine medication group reactions, Diphenhydramine IV push is indicated with bypass of other treatment listed in this protocol.
 
 
+

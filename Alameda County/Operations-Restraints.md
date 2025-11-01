@@ -16,3 +16,7 @@ RESTRAINTS
 
 2.2 A law enforcement officer may elect to follow the ambulance in a patrol car to the receiving facility if the patient has been restrained on the gurney using leather or soft restraints
 
+
+
+
+

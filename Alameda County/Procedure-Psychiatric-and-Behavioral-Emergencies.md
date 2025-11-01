@@ -106,3 +106,7 @@ PSYCHiATRiC AND BEHAViORAl EMERGENCiES- OlANZAPiNE
 
 5. ADMiNiSTRATiON: Olanzapine (Zyprexa) 10mg, should be handed to the patient for sublingual self-administration. No water is needed for the orally disintegrating tablet.
 
+
+
+
+

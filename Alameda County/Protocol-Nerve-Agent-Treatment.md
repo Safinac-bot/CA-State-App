@@ -100,3 +100,7 @@ Child: 0.1-0.3 mg/kg – repeat at 0.05 - 0.1 mg/kg in 10 minutes if needed
 
 Note: In a moderate to severe exposure – repeat as needed until a positive response is achieved
 
+
+
+
+

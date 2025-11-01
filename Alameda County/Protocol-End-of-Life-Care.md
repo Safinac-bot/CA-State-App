@@ -34,3 +34,7 @@ Naloxone administration is not advised
 Pain Management – Opioids are preferred
 See Pain Management Protocol
 
+
+
+
+

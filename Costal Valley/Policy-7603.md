@@ -121,3 +121,5 @@ a. Complete DOJ Suspected Child Abuse Report form SS 8572 for all suspected case
 
 a. Retain the yellow copy of the suspected Child Abuse Report Form SS8572 for your records and submit top three copies (white, blue and green) to the applicable child protective agency.
 
+
+

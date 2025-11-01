@@ -70,3 +70,7 @@ REVERSIBLE CAUSES
 • Thrombosis, pulmonary
 • Thrombosis, coronary
 
+
+
+
+

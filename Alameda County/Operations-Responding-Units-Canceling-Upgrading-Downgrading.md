@@ -28,3 +28,7 @@ RESPONDING UNITS - CANCELING / UPGRADING / DOWNGRADING
 
 4.1 shall reduce the responding resource(s) from Code 3 to Code 2 upon determination that, in the best judgment of the first medical personnel on-scene, the illness or injury is not immediately life threatening or that the difference in Code 3 and Code 2 response time would not likely have an impact on patient outcome.
 
+
+
+
+

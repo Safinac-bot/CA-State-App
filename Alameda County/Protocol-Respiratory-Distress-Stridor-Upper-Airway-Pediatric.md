@@ -40,3 +40,7 @@ NO → Maintain airway and Oxygen
      O2 – titrate to 94-99% SpO2
      via blowby or Non-rebreather Mask
 
+
+
+
+

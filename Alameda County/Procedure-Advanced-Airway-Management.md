@@ -87,3 +87,7 @@ Modified On: May 10, 2019
 ► If airway cannot be maintained with jaw thrust use a head-tilt/chin-lift maneuver
 ► Manually stabilize the head & neck rather than using an immobilization device during CPR
 
+
+
+
+

@@ -121,3 +121,5 @@ F. **POLST** – Physician Order for Life Sustaining Treatment (copies of the or
 
 A. If BLS terminates resuscitation prior to ALS arrival, ALS reassessment is not required.
 
+
+

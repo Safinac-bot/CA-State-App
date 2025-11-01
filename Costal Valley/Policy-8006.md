@@ -118,3 +118,5 @@ c. In the event a sending facility is redirected by the Trauma Center, the sendi
 
 a. The EMS Agency reserves the right to deny bypass approval based on overriding community need, impending EMS system need or determination that bypass criteria are unmet. If multiple hospitals meet bypass criteria at the same time, hospitals will be expected to treat patients to the best of their ability and there will be no EMS Agency approved bypass for any facility.
 
+
+

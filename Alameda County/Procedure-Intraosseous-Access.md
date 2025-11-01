@@ -37,3 +37,7 @@ iNTRAOSSEOUS ACCESS PROCEDURE
 
 ► PEDIATRIC - 0.5mg/kg (not to exceed 40mg) 2% Lidocaine slowly over 120 seconds. Let Lidocaine dwell for 60 seconds. Flush with 2 to 5ml NS. Slowly administer subsequent lidocaine (half the initial dose) IO over 60 seconds. Repeat PRN
 
+
+
+
+

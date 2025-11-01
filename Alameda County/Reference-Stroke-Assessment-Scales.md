@@ -17,3 +17,7 @@ Posterior Stroke Scale (PSS)
 | Visual Fields | Face the patient, ask them to look straight at your nose, move your fingers in each of the four visual quadrants (upper right/left, lower right/ left), and ask the patient to state the side they see the fingers moving | Vision intact in all of the four quadrants | Missing vision in any of the four quadrants |
 | Finger-to-Nose | Patient holds arms at their shoulder to 90 degrees with elbows flexed to 90 degrees, place your index finger at various locations in front of the patient at a distance that requires patient to extend their elbow to reach your finger, ask patient to use their index finger on one hand to touch their index finger to your finger, then touch their index finger to their own nose, then to your finger. Repeat several times moving their target finger each time. Patient repeats the process using the opposite hand's index finger | No weakness, wobbling, or shaking in either arm while attempting to make contact with your finger | Weakness, wobbling, or shaking in either arm while attempting to make contact with your finger ***When both arms are equally shaking or weak, this is not considered an abnormal finding*** |
 
+
+
+
+

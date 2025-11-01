@@ -66,3 +66,5 @@ EMS Administrator, EMS Medical Director
 
 8. During transfer of care from the sending facility to the transport paramedic, blood products shall be disconnected from infusion pumps and manual drip rate(s) set by sending medical team. Use of portable infusion pumps during transport is permissible if the paramedic has documentation of training and proof of competency in the use of the equipment on file with the ALS ambulance provider. In this case, the use of an infusion pump during transport must be included in the sending physician orders.
 
+
+

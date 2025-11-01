@@ -79,3 +79,7 @@ After identifying yourself by name as a physician licensed in the Sate of Califo
 
 5.2 For physician on-scene call if Alternative #3 was chosen (paramedics only)
 
+
+
+
+

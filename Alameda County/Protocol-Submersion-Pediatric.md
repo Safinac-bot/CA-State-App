@@ -27,3 +27,7 @@ NO → O2 – titrate to 94-99% SpO2
      
      NO → Reassess as needed
 
+
+
+
+

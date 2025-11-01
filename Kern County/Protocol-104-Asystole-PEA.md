@@ -79,3 +79,4 @@ Routine shock of asystole is not indicated unless it is questionable whether the
 If a reversible cause is not rapidly identified and the patient fails to respond to resuscitative efforts, termination of resuscitation should be considered.
 
 
+

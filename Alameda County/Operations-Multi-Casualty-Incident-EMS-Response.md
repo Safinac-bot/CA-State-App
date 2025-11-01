@@ -104,3 +104,7 @@ First Round Destination Procedure:
 
 6.2 Use ICS identification vests. At a minimum the IC, Medical Group Supervisor, Triage and Treatment, and Transportation Unit Leader should be clearly identified with vests
 
+
+
+
+

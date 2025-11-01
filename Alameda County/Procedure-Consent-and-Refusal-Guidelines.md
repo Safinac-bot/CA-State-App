@@ -219,3 +219,7 @@ Pediatric Consideration
 Special Consideration
  ☐ See Consent and Refusal Guidelines Section 12.1-12.5
 
+
+
+
+

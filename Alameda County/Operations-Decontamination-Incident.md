@@ -37,3 +37,7 @@ e.g. - Industrial Response Team, Fire Hazardous Materials Response
 
 2.4 Ambulance personnel should remain in or near their vehicle until the decontamination team is ready to decontaminate EMS personnel, if necessary
 
+
+
+
+

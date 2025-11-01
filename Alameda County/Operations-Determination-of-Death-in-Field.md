@@ -77,3 +77,7 @@ ALS clinicians only: For the signs below, an ECG reading of asystole in two or m
 
 4.7 When a patient is not in cardiac arrest, has a DNR/POLST, and requests treatment, up to and including resuscitation, the request should be honored
 
+
+
+
+

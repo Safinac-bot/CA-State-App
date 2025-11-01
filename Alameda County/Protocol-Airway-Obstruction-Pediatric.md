@@ -50,3 +50,7 @@ YES → Maintain airway and Oxygen
 
 NO → Transport to the closest ED
 
+
+
+
+

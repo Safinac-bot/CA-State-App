@@ -99,3 +99,4 @@ Naloxone is not recommended as part of the initial resuscitation for newborns wi
 | **Respiratory Effort** | Absent | Slow, irregular, weak cry | Strong cry |
 
 
+

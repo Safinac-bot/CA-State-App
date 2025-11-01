@@ -82,3 +82,7 @@ Patient may refuse further treatment/transport with completion of AMA procedure 
 → Provide patient with MAT brochure
 → Document findings and treatment(s) including a working phone number that the patient can be contacted on for follow-up
 
+
+
+
+

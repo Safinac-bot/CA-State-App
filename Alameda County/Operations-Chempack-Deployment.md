@@ -23,3 +23,7 @@ Medical unit utilizes Chempack assets on-scene and en-route to hospitals
 HOSPITAL
 Treatment continues in hospital with on-site Chempack assets
 
+
+
+
+

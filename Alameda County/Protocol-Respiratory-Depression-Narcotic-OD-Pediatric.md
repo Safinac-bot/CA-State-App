@@ -30,3 +30,7 @@ NO → Monitor/Reassess
 
 If BVM ventilation and Naloxone are ineffective, consider Advanced Airway placement (see page 108)
 
+
+
+
+

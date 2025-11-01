@@ -134,3 +134,5 @@ F. EtCO2 Wave form if applicable to scope.
 
 G. SPO2 before and after placement.
 
+
+

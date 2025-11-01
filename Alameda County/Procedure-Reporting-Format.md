@@ -45,3 +45,7 @@ REPORTiNG FORMAT
   ○ Vital signs, if available / Glasgow Coma Scale
   ○ Pertinent positives and pertinent negatives
 
+
+
+
+

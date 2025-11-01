@@ -69,3 +69,7 @@ If unstable (with pulse but poor perfusion)
    Consider Sedation but do not delay cardioversion
    See Sedation page 138
 
+
+
+
+

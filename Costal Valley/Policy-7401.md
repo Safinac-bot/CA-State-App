@@ -57,3 +57,5 @@ D. If possible, bring a family member or other on-scene historian to the receivi
 
 E. Rapid identification and transport of suspected stroke patients, along with a detailed history will help expedite patient evaluation at the receiving facility and make the widest range of possible treatment options available.
 
+
+

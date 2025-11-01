@@ -41,3 +41,7 @@ Consider:           |
 Fluid Bolus         |
 500 ml IV/IO        |
 
+
+
+
+

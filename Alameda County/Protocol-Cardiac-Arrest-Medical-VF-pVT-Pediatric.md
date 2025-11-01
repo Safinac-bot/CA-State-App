@@ -59,3 +59,7 @@ NO → Proceed to:
      Cardiac Arrest – Medical – Asystole/PEA protocol
      If pulse present - post resuscitation care
 
+
+
+
+

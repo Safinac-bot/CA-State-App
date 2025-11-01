@@ -42,3 +42,7 @@ NO → Check Blood Glucose
 
 If febrile: Cooling measures
 
+
+
+
+

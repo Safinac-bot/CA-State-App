@@ -40,3 +40,7 @@ Special Considerations:
  ☐ Priapism can be a presentation of sickle cell emergencies and should be treated with aggressive pain control
  ☐ Pregnancy is not a contraindication to opioid use in patients with sickle cell pain emergencies
 
+
+
+
+

@@ -94,3 +94,4 @@
 
 8. Bronchospasm is usually accompanied by respiratory distress with the following findings: wheezing, prolonged expiration, increased respiratory effort, severe agitation, lethargy, suprasternal and substernal retractions, tripod positioning. A silent chest is an ominous sign indicating that respiratory failure or arrest is imminent.
 
+

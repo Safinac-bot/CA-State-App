@@ -96,3 +96,4 @@ For long transports consider Epinephrine infusion, titrated to patient response.
   - **8mcg/min** set rate to 60 drops
 
 
+

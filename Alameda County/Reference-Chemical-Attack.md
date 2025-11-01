@@ -12,3 +12,7 @@ Note: these are for reference only, and are not in ALCO EMS protocol
 | **HYDROGEN CYANIDE** | Extremely flammable, colorless gas or liquid Enters the body through: ► Skin and eyes ► Inhalation ► Ingested | (Same as Nerve Agents) | ► Burning and redness of the skin and eyes ► Inhalation causes confusion, drowsiness, shortness of breath, leading to collapse | Get fresh air immediately Flush skin/eyes with plenty of water Get medical attention immediately; there are antidotes for specific chemical agents |
 | **CHLORINE** | Greenish-yellow gas with stinging odor. Heavier than air, so it will settle in low spots Enters the body through: ► Skin and eyes ► Inhalation ► Ingested | (Same as Nerve Agents) | Very harmful to the eyes and skin and can cause tearing, blurred vision, difficulty breathing, and burns | Get fresh air immediately Flush skin/eyes with plenty of water Seek medical attention immediately; there are antidotes for specific chemical agents |
 
+
+
+
+

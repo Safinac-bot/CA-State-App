@@ -38,3 +38,7 @@ YES → Follow standard intake process
 
 NO → Bring patient to ER waiting room
 
+
+
+
+

@@ -21,3 +21,7 @@ Special Considerations:
 ● BLS and ALS prehospital personnel are not required to initiate resuscitative measures in circumstances of obvious death, signed DNR/POLST form, or upon meeting Family Discretion Criteria as outlined in Determination of Death in the Field protocol.
 ● Consider strangulation/hanging as causes of arrest and treat as a Medical Cardiac Arrest with SMR if suspected spinal cord injury.
 
+
+
+
+

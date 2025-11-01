@@ -56,3 +56,7 @@ Patient to closest hospital:
 
 7. Trauma is not a contraindication for the use of mechanical CPR device as long as it does not delay transport
 
+
+
+
+

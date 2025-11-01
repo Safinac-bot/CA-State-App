@@ -32,3 +32,7 @@ ACTIVE SHOOTER RESPONSE
 
 ► Once the threat is eliminated, law enforcement may be available to help evacuate the injured
 
+
+
+
+

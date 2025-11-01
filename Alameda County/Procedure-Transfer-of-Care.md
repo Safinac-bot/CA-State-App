@@ -28,3 +28,7 @@ AUTHORITY: Division 2.5 of the California Health and Safety Code, Section 1798.6
 
 3.3 If appropriate, the EMS Medical Director will organize a meeting with the involved personnel to resolve the issues within two (2) business days
 
+
+
+
+

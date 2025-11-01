@@ -71,3 +71,4 @@ Fluid challenges in trauma patients should be avoided unless otherwise advised b
 - **DO NOT pack ear canal**
 
 
+

@@ -136,3 +136,5 @@ a. If an ALS transfer unit is unavailable, the transferring physician may reques
 
 a. ALS interfacility transfer calls will be reviewed as per the Quality Improvement policy of the CVEMSA policy
 
+
+

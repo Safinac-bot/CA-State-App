@@ -53,3 +53,5 @@ c. All medication drips will be in the form of an IV piggyback monitored by a me
 
 a. All calls will be audited by the provider agency and by the transferring and receiving hospitals. Audits will assess compliance with physician orders and regional protocols, including base hospital contact in emergency situations. Reports will be sent to the EMS agency as requested.
 
+
+

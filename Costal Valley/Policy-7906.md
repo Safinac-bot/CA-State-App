@@ -81,3 +81,5 @@ L. Abdominal Pain (unless in the presence of previous kidney stones with same pr
 
 A. Initial pain score, then repeat every 5 minutes following administration.
 
+
+

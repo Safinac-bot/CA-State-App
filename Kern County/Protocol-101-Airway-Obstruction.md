@@ -37,3 +37,4 @@
 6. If patient is < 1-year alternate between 5 back blows and 5 chest thrust to attempt to dislodge obstruction.
 
 
+

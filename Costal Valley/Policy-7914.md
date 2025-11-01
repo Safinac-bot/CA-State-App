@@ -82,3 +82,5 @@ A. Indications for performing the procedure.
 
 B. Identify any infusions or medications administered.
 
+
+

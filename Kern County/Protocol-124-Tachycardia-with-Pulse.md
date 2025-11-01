@@ -127,3 +127,4 @@
 | **Physical Exam** | Signs of underlying cause (ex: fever, hypovolemia, anemia) | No attributable cause. Signs of CHF (ex: rales, edema) |
 | **Heart Rate** | Infant: < 220/min<br>Child: < 180/min<br>Variability in HR in response to changes in activity/stimulation, P waves present/normal | Infant: > 220/min<br>Child: > 180/min<br>Minimal variability in HR with changes in activity/stimulation, P waves absent/abnormal |
 
+

@@ -45,3 +45,7 @@ YES → Does patient meet TWO or more of the following SIRS criteria?
 
 NO → Observe and monitor
 
+
+
+
+

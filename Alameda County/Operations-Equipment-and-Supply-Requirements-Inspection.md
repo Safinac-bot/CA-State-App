@@ -19,3 +19,7 @@ EQUIPMENT AND SUPPLY REQUIREMENTS AND INSPECTION
 
 5. EQUIPMENT AND SUPPLIES LIST: See the EMS Agency's website for the latest copy of the Equipment and Supplies List at: https://ems.acgov.org or by scanning the QR code below
 
+
+
+
+

@@ -81,3 +81,7 @@ For each category below, include info from the basic notification template plus 
 
 Note: Detailed Vital Signs should include: RR, HR, B/P, SpO2, GCS (number of each category E/V/M)
 
+
+
+
+

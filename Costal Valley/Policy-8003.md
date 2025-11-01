@@ -83,3 +83,5 @@ a. Patients exhibiting signs of being a danger to themselves or others, or are g
 
 a. A PCR and a RAS/AMA form must be competed for each incident of patient refusal of emergency medical evaluation, care and/or transportation. EMS personnel shall ensure that documentation includes a patient history and assessment, details of the exam/evaluation that was performed, a description of the patient that clearly indicates his/her decision-making capacity, why the patient is refusing care, a statement that the patient understands the risks and consequences of refusing medical attention, and any alternatives presented to the patient.
 
+
+

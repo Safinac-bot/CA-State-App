@@ -14,3 +14,7 @@ Note: these are for reference only, and are not in ALCO EMS protocol
 | **TULAREMIA** 2-5 days Range: 1-21 days "pneumonic" (Francisella tularensis) bacteria | Fever, cough, chest tightness, pleuritic pain Hemoptysis rare | Community-acquired, atypical pneumonia Radiographic: bilateral patchy pneumonia with hilar adenopathy (pleural effusions like TB) Diffuse, varied skin rash May be rapidly fatal | Inhalation of agents No person-to-person transmission but laboratory personnel at risk Standard precautions | Streptomycin 30 mg/kg/ day IM divided bid for 14 days Gentamicin 3-5 mg/kg/ day IV in three equal divided doses x 10-14 days Ciprofloxacin possibly effective 400 mg IV q 12 hr (change to po after clinical improvement) x 10-14 day |
 | **SMALLPOX** 12-14 days Range:7-17 days (Variola virus) | High fever and myalgia; itching; abdominal pain; delirium Rash on face, extremities, hands, feet; confused with chickenpox which has less uniform rash | Maculopapular then vesicular rash -- first on extremities (face, arms, palms, soles, oral mucosa) Rash with hard, firm pustules ("intradermal blisters") Rash is synchronous on various segments of the body | Person-to-person transmission Airborne precautions Negative pressure Clothing and surface decontamination | Ciprofloxacin 500 mg po q 12 hr Doxycycline 100 mg po q 12 hr Tetracycline 250 mg po q 6 hr Experimental live vaccine Vaccination (vaccine available from CDC) Supportive care Vaccinate care givers Experimental: cidofovir (useful in animal studies) |
 
+
+
+
+

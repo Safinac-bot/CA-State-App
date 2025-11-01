@@ -61,3 +61,7 @@ NOTES
 
 § Diphenhydramine may lessen discomfort from rash/itching but is not an essential treatment of anaphylaxis. Consider reduced dosage if patient has taken diphenhydramine in the past 1-2 hrs.
 
+
+
+
+

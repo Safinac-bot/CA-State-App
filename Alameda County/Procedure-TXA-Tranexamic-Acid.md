@@ -31,3 +31,7 @@ Do NOT administer IV push. This will cause hypotension.
 
 3.4 Follow IV fluid resuscitation guidelines on page 25, "Trauma Patient Care"
 
+
+
+
+

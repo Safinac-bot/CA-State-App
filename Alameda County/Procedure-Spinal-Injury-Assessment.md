@@ -77,3 +77,7 @@ MOTOR/SENSORY EXAM:
 ÎCheck gross sensation in all extremities
 ÎCheck for abnormal sensations to extremities (e.g. parathesias)
 
+
+
+
+

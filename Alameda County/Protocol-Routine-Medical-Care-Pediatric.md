@@ -83,3 +83,7 @@ Determine appropriate treatment protocols
 ► Compared to the adult patient, a small amount of fluid, lost from or administered to, a pediatric patient can result in shock or pulmonary edema
 ► Scene time for treatment of pediatric patients should be kept at a minimum. Most treatment should be done en route
 
+
+
+
+

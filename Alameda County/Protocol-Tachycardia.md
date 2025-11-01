@@ -67,3 +67,7 @@ YES → IV/ IO NS
 If no response in 2 minutes:
 ✓12 mg rapid IV
 
+
+
+
+

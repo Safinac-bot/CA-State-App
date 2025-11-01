@@ -72,3 +72,7 @@ PEDIATRIC:
 
 NOTE: While not approved for pediatric use, autoinjectors should be used as initial treatment in children with severe, life-threatening nerve agent toxicity where IV treatment is not possible or available, or a more precise IM dosing would be logistically impossible.
 
+
+
+
+

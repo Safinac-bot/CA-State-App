@@ -98,3 +98,7 @@ Adapted from: Nuclear Regulatory Commission http://www.nrc.gov
 
 4.7 KI offers no protection to other parts of the body or against other radioactive isotopes
 
+
+
+
+

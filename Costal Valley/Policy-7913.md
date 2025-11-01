@@ -84,3 +84,5 @@ D. EtCO2 Wave form before and after placement if available.
 
 E. SPO2 before and after placement.
 
+
+

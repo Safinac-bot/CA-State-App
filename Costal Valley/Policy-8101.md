@@ -40,3 +40,5 @@ a. Observe for:
    4. **Neurological:** paresthesia of extremities, muscular paralysis, confusion.
    5. **Other:** hyperkalemia, venous thrombosis
 
+
+

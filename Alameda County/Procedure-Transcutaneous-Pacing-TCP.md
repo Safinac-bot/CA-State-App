@@ -51,3 +51,7 @@ Consider alternate causes of the dysrhythmia and treat appropriately prior to in
 
 4.4 TCP is safe to perform in pregnant patients
 
+
+
+
+

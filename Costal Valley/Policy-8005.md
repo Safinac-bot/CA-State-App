@@ -110,3 +110,5 @@ a. Rapidly transport to the patient's preferred hospital as long as the estimate
 
 b. Patients with unstable airways, uncontrolled bleeding, or in cardiac arrest should be transported to the nearest Emergency Department regardless of CT status.
 
+
+

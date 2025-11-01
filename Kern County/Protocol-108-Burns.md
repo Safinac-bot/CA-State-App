@@ -69,3 +69,4 @@ Burns to large body surface (<30% TBSA) areas should be cooled initially with co
 - Shock/Hypoperfusion Protocol (125)
 
 
+

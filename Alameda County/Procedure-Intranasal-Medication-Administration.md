@@ -35,3 +35,7 @@ Modified On: May 13, 2015
 ► Continue ventilating the patient as needed
 ► If no appropriate response within 3 minutes, go to appropriate policy
 
+
+
+
+

@@ -29,3 +29,7 @@ Note: This policy pertains to emergency transfers to a higher level of care that
 
 8. Refer to "Interfacility Transfer Guidelines" [see Administration Manual INTERFACILITY TRANSFER GUIDELINES (# 5600)] for transfer approval process
 
+
+
+
+

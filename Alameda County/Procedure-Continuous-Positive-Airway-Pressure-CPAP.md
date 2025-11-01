@@ -69,3 +69,7 @@ For all CPAP patients:
 
 7.4 Additional narrative documentation should include if the patient does not respond to CPAP and endotracheal intubation is required
 
+
+
+
+
